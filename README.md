@@ -1,4 +1,4 @@
-
+[![Build Status](https://gtalluri.visualstudio.com/JavaPipeline/_apis/build/status/gtalluri123.Apppipelines?branchName=master)](https://gtalluri.visualstudio.com/JavaPipeline/_build/latest?definitionId=8&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
